@@ -15,7 +15,7 @@ chute_foi_maior = chute > numero_secreto
 chute_foi_menor = chute < numero_secreto
 
 if(acertou):
-    print('Você acertou')
+    print('Você acertou!  Parabéns!.')
 else:
     if(chute_foi_maior):
        print('Você errou! O seu chute foi maior do que o número secreto.')
