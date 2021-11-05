@@ -40,3 +40,11 @@ Se a implementação for difícil de explicar, é uma má ideia.
 Se a implementação for fácil de explicar, pode ser uma boa ideia.
 
 Os namespaces são uma ótima ideia - vamos fazer mais disso!
+
+
+## Funções embutidas 
+Segue o link https://docs.python.org/pt-br/3/library/functions.html
+
+O interpretador do Python possui várias funções e tipos embutidos que sempre estão disponíveis. A seguir listamos todas as funções em ordem alfabética.
+
+
